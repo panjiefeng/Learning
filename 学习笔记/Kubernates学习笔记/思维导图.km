@@ -1,0 +1,87 @@
+{
+    "root": {
+        "data": {
+            "id": "42foa6vt773a",
+            "text": "整体架构",
+            "created": 1553769784617
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "bsz1qeficco0",
+                    "created": 1553770667061,
+                    "text": "开发流程",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bsz1q6wmm8o0",
+                            "created": 1553770650681,
+                            "text": "产品经理提出PRD",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "bsz1f9lwbhs0",
+                                    "created": 1553769794557,
+                                    "text": "UED设计交稿"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "bsz1fzdrxtc0",
+                                            "created": 1553769850662,
+                                            "text": "UI设计界面"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "bsz1g4mg0r40",
+                                                    "created": 1553769862070,
+                                                    "text": "后台设计API接口"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "bsz1gaxl3280",
+                                                            "created": 1553769875805,
+                                                            "text": "后台实现"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "bsz1geeebow0",
+                                                                    "created": 1553769883352,
+                                                                    "text": "前后端联调"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "bsz1qnfo34w0",
+                    "created": 1553770686661,
+                    "text": "Apollo"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue-compat",
+    "version": "1.4.43",
+    "id": "42foa6vt773a"
+}
